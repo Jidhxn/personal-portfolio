@@ -1,0 +1,41 @@
+.nav-color {
+    color: black !important;
+}
+
+.font-roman {
+    font-family: 'Bitter', serif;
+    font-size: 8rem;
+    color: #293240;
+}
+
+.font-arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button-text {
+    padding-left: 10px;
+    font-size: .8rem;
+}
+
+.btn-dark {
+    background-color: #293240 !important;
+}
+
+.stack-list {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.stack-list img {
+    height: 40px;
+}
+
+a {
+    color: black;
+    font-weight: bold;
+    background-color: transparent;
+    text-decoration: none;
+}
