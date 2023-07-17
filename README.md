@@ -21,14 +21,14 @@ To view the website locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-$ git clone https://github.com/your-username/my-portfolio-website.git
+$ git clone https://github.com/jidhxn/personal-portfolio
 ```
 
 2. Open the index.html file in your web browser.
 
 ## Usage
 
-Visit the [live website link](https://your-username.github.io/my-portfolio-website/) to explore my portfolio. The website is designed to be intuitive and user-friendly, allowing you to easily navigate through different sections, view my projects, and learn more about me.
+Visit the [live website link](https://jidhxn.github.io/personal-portfolio/) to explore my portfolio. The website is designed to be intuitive and user-friendly, allowing you to easily navigate through different sections, view my projects, and learn more about me.
 
 ## Contributing
 
