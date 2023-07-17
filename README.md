@@ -51,5 +51,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to reach out to me if you have any questions or just want to connect:
 
 - Email: ashchiquu@gmail.com
-- Twitter: [@your_twitter_handle](https://twitter.com/jidhxn)
-- GitHub: [Your GitHub Profile](https://github.com/jidhxn)
+- Twitter: [@jidhxn](https://twitter.com/jidhxn)
+- GitHub: [jidhxn.github.com](https://github.com/jidhxn)
